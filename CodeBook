@@ -1,0 +1,5 @@
+Variables:
+1. X-train, X-test, y-train, y-test: from downloead data
+2. data: merged dataset of train and test
+3. means, sd: information of each measurenment
+4. means1, sd1: tidy data set with the average of each variabl
